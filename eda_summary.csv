@@ -1,0 +1,15 @@
+Metric,Value
+Original records,31
+Duplicate records removed,1
+Records after duplicate removal,30
+Missing cells before treatment,4
+Missing cells after treatment,0
+Final cleaned records,30
+Average study hours,4.35
+Average attendance,85.77
+Average marks,72.83
+Median marks,73.0
+Highest department average,IT
+Lowest department average,ECE
+Study hours and marks correlation,0.9256
+Attendance and marks correlation,0.932
